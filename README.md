@@ -1,10 +1,1 @@
-master 1
-master 2
-f1 1
-f1 2
-f1 3
-test1
-test2
-test3
-rebase 1
-test 4
+master condensed 1
