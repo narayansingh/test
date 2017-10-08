@@ -6,3 +6,4 @@ f1 3
 test1
 test2
 test3
+rebase 1
