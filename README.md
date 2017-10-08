@@ -7,3 +7,4 @@ test1
 test2
 test3
 rebase 1
+test 4
